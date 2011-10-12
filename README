@@ -18,3 +18,8 @@ http://www.maestrodev.com
 2011-11-12
 
 Puppet modules developed by MaestroDev, as git submodules for easier management
+
+Example usage of submodules
+
+$ git submodule foreach git status
+$ git submodule foreach git pull
