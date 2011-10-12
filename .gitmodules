@@ -1,0 +1,12 @@
+[submodule "maven"]
+	path = maven
+	url = git://github.com/maestrodev/puppet-maven.git
+[submodule "archiva"]
+	path = archiva
+	url = git://github.com/maestrodev/puppet-archiva.git
+[submodule "sonar"]
+	path = sonar
+	url = git://github.com/maestrodev/puppet-sonar.git
+[submodule "wget"]
+	path = wget
+	url = git://github.com/maestrodev/puppet-wget.git
