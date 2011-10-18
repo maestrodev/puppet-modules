@@ -13,3 +13,21 @@
 [submodule "activemq"]
 	path = activemq
 	url = git://github.com/maestrodev/puppet-activemq.git
+[submodule "puppet-postgres"]
+	path = puppet-postgres
+	url = git://github.com/maestrodev/puppet-postgres.git
+[submodule "puppet-ntp"]
+	path = puppet-ntp
+	url = git://github.com/maestrodev/puppet-ntp.git
+[submodule "puppet-rvm"]
+	path = puppet-rvm
+	url = git://github.com/maestrodev/puppet-rvm.git
+[submodule "puppet-jenkins"]
+	path = puppet-jenkins
+	url = git://github.com/maestrodev/puppet-jenkins.git
+[submodule "puppet-jetty"]
+	path = puppet-jetty
+	url = git://github.com/maestrodev/puppet-jetty.git
+[submodule "puppet-mysql"]
+	path = puppet-mysql
+	url = git://github.com/maestrodev/puppet-mysql.git
