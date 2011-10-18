@@ -10,3 +10,6 @@
 [submodule "wget"]
 	path = wget
 	url = git://github.com/maestrodev/puppet-wget.git
+[submodule "activemq"]
+	path = activemq
+	url = git://github.com/maestrodev/puppet-activemq.git
