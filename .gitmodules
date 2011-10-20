@@ -31,3 +31,6 @@
 [submodule "mysql"]
 	path = mysql
 	url = git://github.com/maestrodev/puppet-mysql.git
+[submodule "continuum"]
+	path = continuum
+	url = git://github.com/maestrodev/puppet-continuum.git
