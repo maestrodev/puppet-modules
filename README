@@ -24,6 +24,9 @@ Setup
 $ git submodule init
 $ git submodule update
 
+Make sure it is using latest versions of the subprojects
+
+$ git submodule foreach "git checkout master; git pull"
 
 Example usage of submodules
 
