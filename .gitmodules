@@ -34,6 +34,6 @@
 [submodule "continuum"]
 	path = continuum
 	url = git://github.com/maestrodev/puppet-continuum.git
-[submodule "puppetlabs-stdlib"]
-	path = puppetlabs-stdlib
+[submodule "stdlib"]
+	path = stdlib
 	url = git://github.com/puppetlabs/puppetlabs-stdlib.git
