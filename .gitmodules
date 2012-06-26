@@ -37,3 +37,15 @@
 [submodule "stdlib"]
 	path = stdlib
 	url = git://github.com/puppetlabs/puppetlabs-stdlib.git
+[submodule "flowdock"]
+	path = flowdock
+	url = git://github.com/maestrodev/puppet-flowdock.git
+[submodule "install4j"]
+	path = install4j
+	url = git://github.com/maestrodev/puppet-install4j.git
+[submodule "subversion_edge"]
+	path = subversion_edge
+	url = git://github.com/maestrodev/puppet-subversion_edge.git
+[submodule "artifactory"]
+	path = artifactory
+	url = git://github.com/maestrodev/puppet-artifactory.git
