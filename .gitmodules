@@ -67,3 +67,6 @@
 [submodule "perforce"]
 	path = perforce
 	url = https://github.com/maestrodev/puppet-perforce.git
+[submodule "ant"]
+	path = ant
+	url = https://github.com/maestrodev/puppet-ant.git
