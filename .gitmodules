@@ -49,3 +49,9 @@
 [submodule "artifactory"]
 	path = artifactory
 	url = git://github.com/maestrodev/puppet-artifactory.git
+[submodule "modules/git"]
+	path = modules/git
+	url = https://github.com/maestrodev/puppet-git.git
+[submodule "modules/svn"]
+	path = modules/svn
+	url = https://github.com/maestrodev/puppet-svn.git
