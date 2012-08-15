@@ -49,9 +49,21 @@
 [submodule "artifactory"]
 	path = artifactory
 	url = git://github.com/maestrodev/puppet-artifactory.git
-[submodule "modules/git"]
-	path = modules/git
+[submodule "bamboo"]
+	path = bamboo
+	url = https://github.com/maestrodev/puppet-bamboo.git
+[submodule "git"]
+	path = git
 	url = https://github.com/maestrodev/puppet-git.git
-[submodule "modules/svn"]
-	path = modules/svn
+[submodule "java"]
+	path = java
+	url = https://github.com/maestrodev/puppetlabs-java.git
+[submodule "maestro"]
+	path = maestro
+	url = https://github.com/maestrodev/puppet-maestro.git
+[submodule "svn"]
+	path = svn
 	url = https://github.com/maestrodev/puppet-svn.git
+[submodule "perforce"]
+	path = perforce
+	url = https://github.com/maestrodev/puppet-perforce.git
